@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ricgreen1 and I am a Technical Artist working in the Video Game industry.
+- 👋 Hi, I’m Richard Greenspan and I am a Technical Artist working in the Video Game industry.
 - 👀 I’m interested in writing Tools for game development. I am focused on UE5 and Maya but have deviated in the past.
 - 🌱 I’m currently learning python, docker, UE5 ...
 - 💞️ I’m looking to collaborate on Tools/Workflows for UE5 and other aspects of game development.
