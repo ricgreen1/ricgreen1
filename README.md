@@ -2,7 +2,7 @@
 - 👀 I’m interested in writing Tools for game development. I am focused on UE5 and Maya but have deviated in the past.
 - 🌱 I’m currently learning python, docker, UE5 ...
 - 💞️ I’m looking to collaborate on Tools/Workflows for UE5 and other aspects of game development.
-- 📫 If you need Help or have Questions/Suggestions you can email me: ricgreen1@gmail.com
+- 📫 If you need Help or have Questions/Suggestions you can email me: rg.igby@gmail.com
 
 <!---
 ricgreen1/ricgreen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
